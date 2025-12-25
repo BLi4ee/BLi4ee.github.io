@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-about-me'></span>
 
 Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕士在读，师从[张蔺](https://scholar.google.com/citations?user=711SenAAAAAJ&hl=zh-CN)副教授。2019年，我毕业于北京工商大学人工智能学院。
 
@@ -27,7 +27,7 @@ Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕
 - 大语言模型
 
 
-<span class='anchor' id='education-background'></span>
+<span class='anchor' id='-education-background'></span>
 
 # 🎓 教育背景
 - *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> 电子科技大学，信息与通信工程, 成都, 硕士（推免） 
@@ -88,6 +88,8 @@ Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕
 - *2022.12* 获得 国家奖学金 [[新闻]](https://www.btbu.edu.cn/news/zhxw/99a91ff6e441476da1173ec5e567de93.htm)
 - *2021.12* 获得 中国电信奖学金·飞YOUNG奖
 - *2022.11* 获得 第三十七届全国部分地区大学生物理竞赛 `二等奖`  
+
+<span class='anchor' id='-volunteer-service'></span>
 
 # 🔆 志愿服务
 - *2022.03* 北京2022冬残奥志愿服务：104小时

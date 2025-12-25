@@ -18,26 +18,27 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕士在读。2019年，我毕业于北京工商大学人工智能学院。
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+
 
 我的研究兴趣包括：
 - 无线通信
 - 深度强化学习
 - 无人机
-  
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='education-background'></span>
 
 # 🎓 教育背景
 - *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> 电子科技大学，信息与通信工程, 成都, 硕士（推免） 
 - *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> 北京工商大学， 信息工程, 北京, 本科
  
-<span class='anchor' id='-lwzl'></span>
+
 
 <!-- # 🔥 新闻
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+<span class='anchor' id='-publications'></span>
 
 # ⛓️‍💥 发表
 
@@ -75,18 +76,17 @@ Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕
 
 
 
-<!-- <span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='-awards-and-honors'></span>
 
 # 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`   -->
+- *2023.06* 获得 北京市优秀毕业生
+- *2022.12* 获得 北京市三好学生 
+- *2022.12* 获得 国家奖学金 [[新闻]](https://www.btbu.edu.cn/news/zhxw/99a91ff6e441476da1173ec5e567de93.htm)
+- *2021.12* 获得 中国电信奖学金
+- *2022.11* 获得 第三十七届全国部分地区大学生物理竞赛 `二等奖`  
 
-<!-- <span class='anchor' id='-xshy'></span> -->
 
-
-
-<!-- <span class='anchor' id='-gzsx'></span>
+<!-- <span class='anchor' id='-internships'></span>
 
 # 💻 工作实习
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆

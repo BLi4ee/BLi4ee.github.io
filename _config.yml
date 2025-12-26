@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "李博雅"
-description              : "李博雅的个人主页"
+description              : "李博雅的个人网站"
 repository               : "BLi4ee.github.io"
 baseurl                  : "/zh-cn" 
 google_scholar_stats_use_cdn : false

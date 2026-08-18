@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 
-Hi，我是李博雅，目前在香港中文大学（深圳）担任访问学生。我已从电子科技大学通信抗干扰全国重点实验室硕士毕业，师从[张蔺](https://scholar.google.com/citations?user=711SenAAAAAJ&hl=zh-CN)教授。本科毕业于北京工商大学人工智能学院。
+Hi，我是李博雅，目前在香港中文大学（深圳）担任访问学生。硕士毕业于电子科技大学通信抗干扰全国重点实验室，师从[张蔺](https://scholar.google.com/citations?user=711SenAAAAAJ&hl=zh-CN)教授；本科毕业于北京工商大学人工智能学院。
 
 我的研究兴趣包括：
 - 无线通信
@@ -31,8 +31,8 @@ Hi，我是李博雅，目前在香港中文大学（深圳）担任访问学生
 <span class='anchor' id='-education-background'></span>
 
 # 🎓 教育背景
-- *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> 电子科技大学，信息与通信工程, 成都, 硕士（推免） 
-- *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> 北京工商大学， 信息工程, 北京, 本科
+- *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> 电子科技大学，信息与通信工程，成都，M.S.
+- *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> 北京工商大学，信息工程，北京，B.S.
  
 
 <span class='anchor' id='-news'></span>
@@ -109,7 +109,7 @@ Hi，我是李博雅，目前在香港中文大学（深圳）担任访问学生
 - *2021.09* 庆祝中国共产党成立100周年志愿服务（服务于朝阳公园，远端集结）：1小时
 - *2021.04* 相约北京冬季体育系列测试活动冰壶和轮椅冰壶比赛志愿服务服务于国家游泳中心，场馆通信中心）：69.5小时
 
-<span class='anchor' id='-interests-and-hobbies'></span>
+<!-- <span class='anchor' id='-interests-and-hobbies'></span>
 
 # 🤩 兴趣爱好
 ## 🎿 运动与户外
@@ -137,6 +137,7 @@ Hi，我是李博雅，目前在香港中文大学（深圳）担任访问学生
 ## 🎭 音乐剧
 ### 最喜欢的音乐剧
 - 《Come From Away》（《来自远方》）
+-->
 
 
 <!-- <span class='anchor' id='-internships'></span>

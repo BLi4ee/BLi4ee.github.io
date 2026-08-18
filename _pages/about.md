@@ -32,8 +32,8 @@ Hi，我是李博雅，目前在香港中文大学（深圳）担任访问学生
 <span class='anchor' id='-education-background'></span>
 
 # 🎓 教育背景
-- *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> 电子科技大学，信息与通信工程，成都，M.S.
-- *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> 北京工商大学，信息工程，北京，B.S.
+- *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> 电子科技大学，信息与通信工程，成都，M.Eng.
+- *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> 北京工商大学，信息工程，北京，B.Eng.
  
 
 <span class='anchor' id='-news'></span>

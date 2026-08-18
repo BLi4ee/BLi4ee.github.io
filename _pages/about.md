@@ -109,7 +109,8 @@ Hi，我是李博雅，目前在香港中文大学（深圳）担任访问学生
 - *2021.09* 庆祝中国共产党成立100周年志愿服务（服务于朝阳公园，远端集结）：1小时
 - *2021.04* 相约北京冬季体育系列测试活动冰壶和轮椅冰壶比赛志愿服务服务于国家游泳中心，场馆通信中心）：69.5小时
 
-<!-- <span class='anchor' id='-interests-and-hobbies'></span>
+{% comment %}
+<span class='anchor' id='-interests-and-hobbies'></span>
 
 # 🤩 兴趣爱好
 ## 🎿 运动与户外
@@ -137,7 +138,7 @@ Hi，我是李博雅，目前在香港中文大学（深圳）担任访问学生
 ## 🎭 音乐剧
 ### 最喜欢的音乐剧
 - 《Come From Away》（《来自远方》）
--->
+{% endcomment %}
 
 
 <!-- <span class='anchor' id='-internships'></span>

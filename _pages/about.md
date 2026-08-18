@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 
-Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕士在读，师从[张蔺](https://scholar.google.com/citations?user=711SenAAAAAJ&hl=zh-CN)副教授。2019年，我毕业于北京工商大学人工智能学院。
+Hi，我是李博雅，目前在香港中文大学（深圳）担任访问学生。我已从电子科技大学通信抗干扰全国重点实验室硕士毕业，师从[张蔺](https://scholar.google.com/citations?user=711SenAAAAAJ&hl=zh-CN)教授。本科毕业于北京工商大学人工智能学院。
 
 我的研究兴趣包括：
 - 无线通信
@@ -26,7 +26,7 @@ Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕
 - 深度强化学习
 - 大语言模型
 
-<p style="color: red;">我正在积极寻找对以上领域充满兴趣的博士生导师。欢迎感兴趣的导师通过邮件<a href="mailto:liberty.in.ee@gmail.com" style="color: red; text-decoration: underline;">liberty.in.ee@gmail.com</a>与我联系。</p>
+<p style="color: red;">我正在积极寻找与上述研究方向相关的博士机会。欢迎感兴趣的导师通过邮件<a href="mailto:liberty.in.ee@gmail.com" style="color: red; text-decoration: underline;">liberty.in.ee@gmail.com</a>与我联系。</p>
 
 <span class='anchor' id='-education-background'></span>
 

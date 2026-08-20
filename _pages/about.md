@@ -26,6 +26,7 @@ Hi，我是李博雅，目前在香港中文大学（深圳）担任访问学生
 - 深度强化学习
 - 大语言模型
 - 扩散模型
+- 具身智能
 
 <p style="color: red;">我正在积极寻找与上述研究方向相关的博士机会。欢迎感兴趣的导师通过邮件<a href="mailto:liberty.in.ee@gmail.com" style="color: red; text-decoration: underline;">liberty.in.ee@gmail.com</a>与我联系。</p>
 

@@ -40,9 +40,11 @@ Hi，我是李博雅，目前在香港中文大学（深圳）担任访问学生
 <span class='anchor' id='-news'></span>
 
 # 🔥 新闻
+<!--
 - *2025.11*: 我开始学习 MIT W. Gilbert Strang 教授主讲的《线性代数》课程。学习进度：第 21/34 课 [点击观看 Bilibili 视频](https://www.bilibili.com/video/BV1ix411f7Yp/?spm_id_from=333.337.search-card.all.click)
 - *2025.09*: 我开始学习台湾大学李宏毅教授主讲的《生成式人工智能》课程。学习进度：第 11/18 课 [点击观看 Bilibili 视频](https://www.bilibili.com/video/BV1BJ4m1e7g8/?spm_id_from=333.337.search-card.all.click&vd_source=0987e33b378cdb9fa51b5a63beb8fa4f)
 - *2023. 09*: 我开始在CSDN上记录科研与学习中遇到的问题及解决方法。[点击查看我的csdn主页](https://blog.csdn.net/weixin_46846151?spm=1010.2135.3001.5343)
+-->
 
 
 
